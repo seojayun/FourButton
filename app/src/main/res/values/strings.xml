@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FourButton</string>  //문자열을 정의 할 수 있다.
+    <string name="home_name">KBS 홈페이지 열기</string>
+</resources>
